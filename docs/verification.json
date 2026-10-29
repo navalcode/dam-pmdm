@@ -1,0 +1,15 @@
+{
+  "repository": "dam-pmdm",
+  "date": "2026-10-29",
+  "original_commit": "d5cf3079e560aadf9c68834f9e510b57611d9b31",
+  "original_tracked_files": [
+    "README.md"
+  ],
+  "surface": "Historical curriculum notes only",
+  "review": "Source tree and literal original notes inspected; English/Spanish contents and relative links reviewed. GitHub Markdown rendering recorded in the coordinating review evidence.",
+  "application_sources": 0,
+  "runtime_tests": "Not applicable: documentation-only original source",
+  "new_hosted_ci": false,
+  "new_application": false,
+  "original_history_and_notes_preserved": true
+}

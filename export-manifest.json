@@ -1,0 +1,22 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "cf237c7aff44efbe6e502e645c3e06da03a69d7bdeb43392108ef3348143417e"
+  },
+  {
+    "path": "DESIGN.md",
+    "sha256": "4eebcd568e66e7d980af111539ba60aab390a06cf1030ee292dd8250cdd6fe72"
+  },
+  {
+    "path": "README.es.md",
+    "sha256": "06c0435704b17b509d76c6cae9f760b70a7fa80bafeb9830ca4a6bd441e7f68b"
+  },
+  {
+    "path": "README.md",
+    "sha256": "6a66557acdd5743398fc62df545d5569e70f88a81282e13abdc8cc367efbde62"
+  },
+  {
+    "path": "docs/verification.json",
+    "sha256": "781bc79b36f20a54673e44bf3b22e46ebf16c9dc8d9219d1ad6a3acb5e54ca24"
+  }
+]

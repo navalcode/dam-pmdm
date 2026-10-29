@@ -1,18 +1,24 @@
-# Git and collaboration exercises
+# Git collaboration notes
 
-[English](#overview) · [Español](#resumen)
+[Español](README.es.md) · [Presentation decisions](DESIGN.md) · [Review evidence](docs/verification.json)
 
-## Overview
+Historical training notes about branches and paired collaboration. The reviewed original snapshot contains one README; its short notes are preserved below.
 
-Notes and exercises about Git branches and collaboration.
+## Contents and scope
 
-An earlier learning exercise. The source is preserved with its original toolchain; compatibility with current versions has not been revalidated.
+The original curriculum headings cover an introduction to Git, teamwork with branches and JIRA. They describe the subject of the exercise. There is no application source, build configuration, executable example, Jira integration or automated test suite in that snapshot.
 
-## Resumen
+This repository is retained as an early learning artifact. The current review clarifies its contents and provides equivalent English/Spanish navigation. It does not turn those headings into claims of professional tool usage or shipped software.
 
-Apuntes y ejercicios de ramas Git y colaboración.
+For executable Android, Flutter and engineering examples, start with [my GitHub profile](https://github.com/navalcode). The [repository history](https://github.com/navalcode/dam-pmdm/commits/main/) preserves the original learning context.
 
-Ejercicio de una etapa anterior de aprendizaje. Se conserva con sus herramientas originales; no se ha vuelto a validar con versiones actuales.
+## Verification
+
+The source tree and original notes were inspected. Both README versions were checked with GitHub Markdown rendering and their relative links reviewed. Runtime tests and UI screenshots are not applicable to this documentation-only surface. No CI, application, dependency upgrade or repository visibility change is introduced.
+
+GitHub supplies the document typography, theme, navigation and responsive behavior. This review uses a concise topic hierarchy and real links rather than adding decorative images or a simulated app.
+
+## Original notes
 
 <details>
 <summary>Original documentation and credits · Documentación y créditos originales</summary>
@@ -27,5 +33,3 @@ Unidad 3: JIRA
 
 Estos son los nuevos cambios que solicitarán el pull request.
 </details>
-
-[More of my work · Más proyectos](https://github.com/navalcode)
