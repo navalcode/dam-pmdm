@@ -10,7 +10,7 @@ The original curriculum headings cover an introduction to Git, teamwork with bra
 
 This repository is retained as an early learning artifact. The current review clarifies its contents and provides equivalent English/Spanish navigation. It does not turn those headings into claims of professional tool usage or shipped software.
 
-For executable Android, Flutter and engineering examples, start with [my GitHub profile](https://github.com/navalcode). The [repository history](https://github.com/navalcode/dam-pmdm/commits/main/) preserves the original learning context.
+For executable Android, Flutter and engineering examples, start with [my GitHub profile](https://github.com/navalcode). The [repository history](https://github.com/navalcode/dam-pmdm/commits/master/) preserves the original learning context.
 
 ## Verification
 

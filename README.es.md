@@ -10,7 +10,7 @@ Los títulos originales incluyen introducción a Git, trabajo en equipo con rama
 
 Se conserva como material de una etapa inicial de aprendizaje. La revisión actual aclara qué contiene y añade navegación equivalente en español e inglés. Esos títulos no se convierten en afirmaciones de uso profesional o software publicado.
 
-Para ejemplos ejecutables de Android, Flutter e ingeniería, puedes partir de [mi perfil GitHub](https://github.com/navalcode). El [historial del repositorio](https://github.com/navalcode/dam-pmdm/commits/main/) conserva el contexto original.
+Para ejemplos ejecutables de Android, Flutter e ingeniería, puedes partir de [mi perfil GitHub](https://github.com/navalcode). El [historial del repositorio](https://github.com/navalcode/dam-pmdm/commits/master/) conserva el contexto original.
 
 ## Verificación
 

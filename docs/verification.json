@@ -11,5 +11,8 @@
   "runtime_tests": "Not applicable: documentation-only original source",
   "new_hosted_ci": false,
   "new_application": false,
-  "original_history_and_notes_preserved": true
+  "original_history_and_notes_preserved": true,
+  "default_branch": "master",
+  "repository_history_url": "https://github.com/navalcode/dam-pmdm/commits/master/",
+  "default_branch_verified_by_repository_api": true
 }
